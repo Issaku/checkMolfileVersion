@@ -31,11 +31,13 @@ namespace checkMolfileVersion
 
 						if (moldata.Contains ("V2000")) {
 							sbV2000.AppendLine(Path.GetFileName(file));
+							Console.WriteLine ("V2000: " + Path.GetFileName(file));
 						} else if (moldata.Contains ("V3000")) {
 							sbV3000.AppendLine(Path.GetFileName(file));
 							Console.WriteLine ("V3000: " + Path.GetFileName(file));
 						} else {
 							sbUn.AppendLine(Path.GetFileName(file));
+							Console.WriteLine ("V????: " + Path.GetFileName(file));
 						}
 						reader.Close ();
 					} 
