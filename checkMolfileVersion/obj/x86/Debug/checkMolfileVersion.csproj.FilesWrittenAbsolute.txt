@@ -1,0 +1,5 @@
+/Users/yamada/Projects/checkMolfileVersion/checkMolfileVersion/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/yamada/Projects/checkMolfileVersion/checkMolfileVersion/bin/Debug/checkMolfileVersion.exe.mdb
+/Users/yamada/Projects/checkMolfileVersion/checkMolfileVersion/bin/Debug/checkMolfileVersion.exe
+/Users/yamada/Projects/checkMolfileVersion/checkMolfileVersion/obj/x86/Debug/checkMolfileVersion.exe
+/Users/yamada/Projects/checkMolfileVersion/checkMolfileVersion/obj/x86/Debug/checkMolfileVersion.exe.mdb
